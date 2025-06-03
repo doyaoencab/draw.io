@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.1.3">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="1464" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="888" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,7 +37,7 @@
         <mxCell id="AspSAdf8PWGHBNEj-gZZ-28" value="t1 = 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="985" y="185" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AspSAdf8PWGHBNEj-gZZ-30" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.522;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AspSAdf8PWGHBNEj-gZZ-24">
+        <mxCell id="AspSAdf8PWGHBNEj-gZZ-30" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.522;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f8cecc;strokeColor=#0000FF;" edge="1" parent="1" source="AspSAdf8PWGHBNEj-gZZ-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="650" y="200" as="sourcePoint" />
             <mxPoint x="990" y="200.65999999999997" as="targetPoint" />
@@ -55,7 +55,7 @@
         <mxCell id="AspSAdf8PWGHBNEj-gZZ-62" value="t1 = 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="985" y="275" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AspSAdf8PWGHBNEj-gZZ-64" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="AspSAdf8PWGHBNEj-gZZ-64" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#0000FF;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="840" y="289.44" as="sourcePoint" />
             <mxPoint x="990" y="290" as="targetPoint" />
@@ -76,7 +76,7 @@
         <mxCell id="AspSAdf8PWGHBNEj-gZZ-67" value="Confirm booking" style="whiteSpace=wrap;html=1;rounded=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="120" y="340" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AspSAdf8PWGHBNEj-gZZ-68" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.045;entryY=0.483;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="AspSAdf8PWGHBNEj-gZZ-69">
+        <mxCell id="AspSAdf8PWGHBNEj-gZZ-68" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.045;entryY=0.483;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#0000FF;" edge="1" parent="1" target="AspSAdf8PWGHBNEj-gZZ-69">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="547" y="359.44" as="sourcePoint" />
             <mxPoint x="997" y="360" as="targetPoint" />
@@ -97,10 +97,13 @@
             <mxPoint x="490" y="419.47" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="AspSAdf8PWGHBNEj-gZZ-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AspSAdf8PWGHBNEj-gZZ-72" target="AspSAdf8PWGHBNEj-gZZ-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AspSAdf8PWGHBNEj-gZZ-72" value="Store booking in the system" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="490" y="400" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AspSAdf8PWGHBNEj-gZZ-73" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="AspSAdf8PWGHBNEj-gZZ-73" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#0000FF;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="590" y="420.01" as="sourcePoint" />
             <mxPoint x="990" y="420" as="targetPoint" />
@@ -108,6 +111,24 @@
         </mxCell>
         <mxCell id="AspSAdf8PWGHBNEj-gZZ-74" value="t1 = 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="985" y="405" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AspSAdf8PWGHBNEj-gZZ-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AspSAdf8PWGHBNEj-gZZ-75" target="AspSAdf8PWGHBNEj-gZZ-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AspSAdf8PWGHBNEj-gZZ-75" value="Collect customer details for payment" style="whiteSpace=wrap;html=1;rounded=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="480" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AspSAdf8PWGHBNEj-gZZ-77" value="Provides details for payment processing" style="whiteSpace=wrap;html=1;rounded=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="120" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AspSAdf8PWGHBNEj-gZZ-79" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#0000FF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="605" y="499.45" as="sourcePoint" />
+            <mxPoint x="990" y="499" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AspSAdf8PWGHBNEj-gZZ-80" value="t1 = 3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="985" y="485" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
