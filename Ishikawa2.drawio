@@ -253,7 +253,7 @@
         <mxCell id="Yfn8EVCjgWUCSsXEZa4B-219" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Unorganized database&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="810" y="410" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Yfn8EVCjgWUCSsXEZa4B-220" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Manual Input&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Yfn8EVCjgWUCSsXEZa4B-220" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;System Input&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="413" y="290" width="85" height="30" as="geometry" />
         </mxCell>
       </root>
