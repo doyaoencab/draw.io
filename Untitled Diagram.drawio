@@ -45,7 +45,7 @@
           <mxGeometry x="525" y="265" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AspSAdf8PWGHBNEj-gZZ-21" value="User selects room" style="whiteSpace=wrap;html=1;rounded=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="130" y="405" width="120" height="35" as="geometry" />
+          <mxGeometry x="130" y="379" width="120" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
