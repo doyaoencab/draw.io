@@ -241,6 +241,9 @@
         <mxCell id="Yfn8EVCjgWUCSsXEZa4B-212" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Customer wait time increase&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="704" y="245" width="107" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Yfn8EVCjgWUCSsXEZa4B-213" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Preparation delays&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="786.5" y="363" width="107" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
