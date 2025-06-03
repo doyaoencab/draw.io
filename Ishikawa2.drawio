@@ -259,8 +259,11 @@
         <mxCell id="Yfn8EVCjgWUCSsXEZa4B-221" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Possible backup and recovery failures&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="697.5" y="524" width="142.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Yfn8EVCjgWUCSsXEZa4B-222" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Human errors&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Yfn8EVCjgWUCSsXEZa4B-222" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Inaccuracies&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="318" y="244" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Yfn8EVCjgWUCSsXEZa4B-223" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Incomplete data&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="398" y="360" width="85" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
