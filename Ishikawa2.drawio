@@ -245,7 +245,7 @@
           <mxGeometry x="786.5" y="363" width="107" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Yfn8EVCjgWUCSsXEZa4B-214" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Insufficient Machines&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="448" y="444" width="60" height="30" as="geometry" />
+          <mxGeometry x="449" y="485" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
