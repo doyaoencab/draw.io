@@ -34,7 +34,7 @@
         <mxCell id="AspSAdf8PWGHBNEj-gZZ-26" value="Are there rooms available?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="475" y="250" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="AspSAdf8PWGHBNEj-gZZ-28" value="t1 = 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="AspSAdf8PWGHBNEj-gZZ-28" value="t1 = 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="985" y="185" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AspSAdf8PWGHBNEj-gZZ-30" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.522;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AspSAdf8PWGHBNEj-gZZ-24">
