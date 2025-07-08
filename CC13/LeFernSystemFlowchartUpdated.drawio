@@ -1,23 +1,56 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.2.0">
   <diagram name="Page-1" id="Jzcs6xe4tkx_1wj60qTc">
-    <mxGraphModel dx="1378" dy="1513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="668" dy="1409" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="JCvha5B-mu45JHcWkv43-3" value="&lt;b style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Booking System Flowchart of LeFern Baguio&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="-800" width="550" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JCvha5B-mu45JHcWkv43-6" value="&lt;b&gt;Guest&lt;/b&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JCvha5B-mu45JHcWkv43-6" value="&lt;b&gt;Guest&lt;/b&gt;" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="60" y="-710" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JCvha5B-mu45JHcWkv43-7" value="&lt;b&gt;&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(237, 237, 237));&quot;&gt;Time (minutes)&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;strokeColor=light-dark(#ff0000, #ededed);" vertex="1" parent="1">
+        <mxCell id="JCvha5B-mu45JHcWkv43-7" value="&lt;b&gt;&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(237, 237, 237));&quot;&gt;Time (minutes)&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1020" y="-710" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JCvha5B-mu45JHcWkv43-8" value="&lt;b&gt;Receptionist&lt;/b&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JCvha5B-mu45JHcWkv43-8" value="&lt;b&gt;Receptionist&lt;/b&gt;" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="390" y="-710" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JCvha5B-mu45JHcWkv43-9" value="&lt;b&gt;Third-Part Online Party&lt;/b&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JCvha5B-mu45JHcWkv43-9" value="&lt;b&gt;Third-Part Online Party&lt;/b&gt;" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="710" y="-710" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JCvha5B-mu45JHcWkv43-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JCvha5B-mu45JHcWkv43-11" target="JCvha5B-mu45JHcWkv43-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JCvha5B-mu45JHcWkv43-11" value="Booking Inquiry" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JCvha5B-mu45JHcWkv43-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JCvha5B-mu45JHcWkv43-14" target="JCvha5B-mu45JHcWkv43-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JCvha5B-mu45JHcWkv43-14" value="Booking Method" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-600" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JCvha5B-mu45JHcWkv43-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JCvha5B-mu45JHcWkv43-16" target="JCvha5B-mu45JHcWkv43-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JCvha5B-mu45JHcWkv43-16" value="Select desired unit" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="-580" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JCvha5B-mu45JHcWkv43-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JCvha5B-mu45JHcWkv43-18" target="JCvha5B-mu45JHcWkv43-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JCvha5B-mu45JHcWkv43-18" value="Guest Input Information" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="-480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JCvha5B-mu45JHcWkv43-20" value="Guest Finalize&amp;nbsp;&lt;div&gt;Details&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="-400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JCvha5B-mu45JHcWkv43-22" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="-460" as="sourcePoint" />
+            <mxPoint x="180" y="-510" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
