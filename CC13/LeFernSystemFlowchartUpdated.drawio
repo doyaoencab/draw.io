@@ -1,56 +1,207 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.2.0">
   <diagram name="Page-1" id="Jzcs6xe4tkx_1wj60qTc">
-    <mxGraphModel dx="668" dy="1409" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1028" dy="2064" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="JCvha5B-mu45JHcWkv43-3" value="&lt;b style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Booking System Flowchart of LeFern Baguio&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="-800" width="550" height="40" as="geometry" />
+          <mxGeometry x="139" y="-1160" width="550" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JCvha5B-mu45JHcWkv43-6" value="&lt;b&gt;Guest&lt;/b&gt;" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="60" y="-710" width="120" height="20" as="geometry" />
+          <mxGeometry x="60" y="-1060" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JCvha5B-mu45JHcWkv43-7" value="&lt;b&gt;&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(237, 237, 237));&quot;&gt;Time (minutes)&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="-710" width="120" height="20" as="geometry" />
+          <mxGeometry x="707" y="-1060" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JCvha5B-mu45JHcWkv43-8" value="&lt;b&gt;Receptionist&lt;/b&gt;" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="390" y="-710" width="120" height="20" as="geometry" />
+          <mxGeometry x="270" y="-1060" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JCvha5B-mu45JHcWkv43-9" value="&lt;b&gt;Third-Part Online Party&lt;/b&gt;" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="710" y="-710" width="140" height="20" as="geometry" />
+          <mxGeometry x="480" y="-1060" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JCvha5B-mu45JHcWkv43-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JCvha5B-mu45JHcWkv43-11" target="JCvha5B-mu45JHcWkv43-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JCvha5B-mu45JHcWkv43-11" value="Booking Inquiry" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="-680" width="120" height="40" as="geometry" />
+          <mxGeometry x="60" y="-1040" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JCvha5B-mu45JHcWkv43-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JCvha5B-mu45JHcWkv43-14" target="JCvha5B-mu45JHcWkv43-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JCvha5B-mu45JHcWkv43-14" value="Booking Method" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="-600" width="120" height="80" as="geometry" />
+          <mxGeometry x="60" y="-960" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JCvha5B-mu45JHcWkv43-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JCvha5B-mu45JHcWkv43-16" target="JCvha5B-mu45JHcWkv43-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JCvha5B-mu45JHcWkv43-16" value="Select desired unit" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="-580" width="120" height="40" as="geometry" />
+          <mxGeometry x="490" y="-940" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JCvha5B-mu45JHcWkv43-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JCvha5B-mu45JHcWkv43-18" target="JCvha5B-mu45JHcWkv43-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JCvha5B-mu45JHcWkv43-18" value="Guest Input Information" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="-480" width="120" height="40" as="geometry" />
+          <mxGeometry x="490" y="-840" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JCvha5B-mu45JHcWkv43-20" value="Guest Finalize&amp;nbsp;&lt;div&gt;Details&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="-400" width="120" height="40" as="geometry" />
+          <mxGeometry x="490" y="-760" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JCvha5B-mu45JHcWkv43-22" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="JCvha5B-mu45JHcWkv43-22" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="JCvha5B-mu45JHcWkv43-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="130" y="-460" as="sourcePoint" />
-            <mxPoint x="180" y="-510" as="targetPoint" />
+            <mxPoint x="120" y="-820" as="sourcePoint" />
+            <mxPoint x="180" y="-860" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="JCvha5B-mu45JHcWkv43-23" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="JCvha5B-mu45JHcWkv43-24">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="120" y="-820" as="sourcePoint" />
+            <mxPoint x="200" y="-810" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JCvha5B-mu45JHcWkv43-24" value="Inquire Unit Availability" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-840" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JCvha5B-mu45JHcWkv43-27" value="Agoda" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-942" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JCvha5B-mu45JHcWkv43-28" value="Walk-in" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-850" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JCvha5B-mu45JHcWkv43-29" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="-920.27" as="sourcePoint" />
+            <mxPoint x="60" y="-920.27" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JCvha5B-mu45JHcWkv43-31" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="-920" as="sourcePoint" />
+            <mxPoint x="30" y="-740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JCvha5B-mu45JHcWkv43-32" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1" source="JCvha5B-mu45JHcWkv43-33">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="30" y="-730.6700000000001" as="sourcePoint" />
+            <mxPoint x="390" y="-731" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JCvha5B-mu45JHcWkv43-35" value="Facebook" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="-770" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JCvha5B-mu45JHcWkv43-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JCvha5B-mu45JHcWkv43-36" target="JCvha5B-mu45JHcWkv43-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JCvha5B-mu45JHcWkv43-36" value="Acquire Guest Information" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JCvha5B-mu45JHcWkv43-38" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JCvha5B-mu45JHcWkv43-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="-800" as="sourcePoint" />
+            <mxPoint x="440" y="-820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JCvha5B-mu45JHcWkv43-39" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="-660" as="sourcePoint" />
+            <mxPoint x="440" y="-820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JCvha5B-mu45JHcWkv43-40" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="JCvha5B-mu45JHcWkv43-36">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="440" y="-660" as="sourcePoint" />
+            <mxPoint x="600" y="-550" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JCvha5B-mu45JHcWkv43-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JCvha5B-mu45JHcWkv43-41" target="JCvha5B-mu45JHcWkv43-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JCvha5B-mu45JHcWkv43-41" value="Collect Guest Inquire Information" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JCvha5B-mu45JHcWkv43-43" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JCvha5B-mu45JHcWkv43-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="-590" as="sourcePoint" />
+            <mxPoint x="330" y="-700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JCvha5B-mu45JHcWkv43-46" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="240" y="-579.6700000000001" as="sourcePoint" />
+            <mxPoint x="270" y="-580" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JCvha5B-mu45JHcWkv43-47" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="JCvha5B-mu45JHcWkv43-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="-580" as="sourcePoint" />
+            <mxPoint x="779.33" y="-710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JCvha5B-mu45JHcWkv43-48" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="JCvha5B-mu45JHcWkv43-41">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="550" y="-580" as="sourcePoint" />
+            <mxPoint x="690" y="-570.6700000000001" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JCvha5B-mu45JHcWkv43-51" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1" target="JCvha5B-mu45JHcWkv43-33">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="30" y="-740" as="sourcePoint" />
+            <mxPoint x="390" y="-731" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JCvha5B-mu45JHcWkv43-33" value="Message Unit Availability" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-760" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JCvha5B-mu45JHcWkv43-52" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="-700" as="sourcePoint" />
+            <mxPoint x="330" y="-700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JCvha5B-mu45JHcWkv43-54" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="-580" as="sourcePoint" />
+            <mxPoint x="240" y="-700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JCvha5B-mu45JHcWkv43-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JCvha5B-mu45JHcWkv43-55" target="JCvha5B-mu45JHcWkv43-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JCvha5B-mu45JHcWkv43-55" value="Unit Available?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="271.25" y="-520" width="117.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JCvha5B-mu45JHcWkv43-57" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="-480" as="sourcePoint" />
+            <mxPoint x="271.25" y="-480.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JCvha5B-mu45JHcWkv43-58" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="-1020" as="sourcePoint" />
+            <mxPoint x="10" y="-480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JCvha5B-mu45JHcWkv43-61" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="10" y="-1020" as="sourcePoint" />
+            <mxPoint x="60" y="-1020.5" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JCvha5B-mu45JHcWkv43-62" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-510" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JCvha5B-mu45JHcWkv43-63" value="Finalize Guest Booking Details" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JCvha5B-mu45JHcWkv43-65" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="-440" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
