@@ -225,6 +225,9 @@
         <mxCell id="JCvha5B-mu45JHcWkv43-70" value="Payment Confirmation" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="-320" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="JCvha5B-mu45JHcWkv43-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JCvha5B-mu45JHcWkv43-72" target="JCvha5B-mu45JHcWkv43-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JCvha5B-mu45JHcWkv43-72" value="Update Booked Dates &amp;amp; Unit" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="280" y="-240" width="100" height="80" as="geometry" />
         </mxCell>
@@ -234,6 +237,9 @@
             <mxPoint x="520" y="-350" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="JCvha5B-mu45JHcWkv43-74" value="Booking Complete" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="269.75" y="-120" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
