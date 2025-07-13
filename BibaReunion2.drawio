@@ -55,7 +55,7 @@
         <mxCell id="iPQbSwLAwt5U1WuinnP0-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iPQbSwLAwt5U1WuinnP0-9" target="iPQbSwLAwt5U1WuinnP0-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iPQbSwLAwt5U1WuinnP0-9" value="Domingo (Domanog) Biba &amp;amp; Emilia (Kuman) Bagni" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iPQbSwLAwt5U1WuinnP0-9" value="Domingo (Domanog) Biba&lt;sup&gt;+&lt;/sup&gt; &amp;amp; Emilia (Kuman) Bagni&lt;sup&gt;+&lt;/sup&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="140.38" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iPQbSwLAwt5U1WuinnP0-16" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -70,7 +70,7 @@
             <mxPoint x="800" y="160.38" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iPQbSwLAwt5U1WuinnP0-20" value="Domingo (Domanog) Biba &amp;amp; Dominga Paydon" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iPQbSwLAwt5U1WuinnP0-20" value="Domingo (Domanog) Biba&lt;sup&gt;+&lt;/sup&gt; &amp;amp; Dominga Paydon&lt;sup&gt;+&lt;/sup&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="200.38" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iPQbSwLAwt5U1WuinnP0-22" value="Godfrey (Uyaan) Biba &amp;amp; Luisa Nicanor" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
@@ -99,6 +99,15 @@
         </mxCell>
         <mxCell id="iPQbSwLAwt5U1WuinnP0-34" value="Agnes (Ayagan) Beba&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;sup&gt;+&lt;/sup&gt;&lt;/span&gt;&amp;nbsp;&amp;amp; Leon Domerez&lt;sup&gt;+&lt;/sup&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="220" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iPQbSwLAwt5U1WuinnP0-36" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780" y="400" as="sourcePoint" />
+            <mxPoint x="800" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iPQbSwLAwt5U1WuinnP0-38" value="Felix (Lumas-e) Viva&lt;sup&gt;+&lt;/sup&gt; &amp;amp; Patricia Ligunan&lt;sup&gt;+&lt;/sup&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="380" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
