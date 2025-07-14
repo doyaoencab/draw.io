@@ -3080,8 +3080,11 @@
         <mxCell id="geJAM1FH9w8emXUavwDb-1019" value="Remalyn Pilay" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1980" y="3600" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="geJAM1FH9w8emXUavwDb-1020" value="Remalyn Pilay" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="geJAM1FH9w8emXUavwDb-1020" value="Rutherford Pilay" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1980" y="3660" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="geJAM1FH9w8emXUavwDb-1021" value="Lino Pilay &amp;amp; Rema Buis" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#d79b00;fillColor=#ffe6cc;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="3580" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
