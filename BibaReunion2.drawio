@@ -1844,6 +1844,12 @@
             <mxPoint x="-940" y="3140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="geJAM1FH9w8emXUavwDb-724" value="Christ Kaizer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-1100" y="3270" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="geJAM1FH9w8emXUavwDb-725" value="Princes" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-1100" y="3310" width="160" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
