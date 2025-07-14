@@ -2321,6 +2321,9 @@
         <mxCell id="geJAM1FH9w8emXUavwDb-838" value="Abigail Tarnate &amp;amp; Percival Buking" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-880" y="4700" width="170" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="geJAM1FH9w8emXUavwDb-839" value="Adrian Pryce" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-1100" y="4790" width="160" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
