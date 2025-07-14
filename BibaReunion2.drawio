@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.4">
   <diagram name="Page-1" id="LgF2EEBKUEtaE752DzGD">
-    <mxGraphModel dx="3264" dy="2016" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="2210" dy="1357" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,15 +46,9 @@
             <mxPoint x="780" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iPQbSwLAwt5U1WuinnP0-7" value="" style="endArrow=none;html=1;rounded=0;fontSize=15;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="620" y="400" as="sourcePoint" />
-            <mxPoint x="620" y="-210" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="iPQbSwLAwt5U1WuinnP0-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" parent="1" edge="1" target="iPQbSwLAwt5U1WuinnP0-55">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="620" y="-210" as="sourcePoint" />
+            <mxPoint x="620" y="-211" as="sourcePoint" />
             <mxPoint x="585" y="160.5971428571429" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -76,21 +70,14 @@
             <mxPoint x="600" y="659.6799999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iPQbSwLAwt5U1WuinnP0-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300" y="-210.24" as="sourcePoint" />
-            <mxPoint x="259.99999999999955" y="-210.24" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="290" y="-210.24" />
-              <mxPoint x="290" y="-210.24" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="geJAM1FH9w8emXUavwDb-311" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="iPQbSwLAwt5U1WuinnP0-55" target="iPQbSwLAwt5U1WuinnP0-58">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iPQbSwLAwt5U1WuinnP0-55" value="1. Domingo (Domanog) Biba&lt;sup&gt;+&lt;/sup&gt; &amp;amp; Emilia (Kuman) Bagni&lt;span&gt;&lt;sup&gt;+&lt;/sup&gt;&lt;/span&gt;&amp;nbsp;(First Wife)&lt;sup&gt;&amp;nbsp;&lt;/sup&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="300" y="-230" width="255" height="40" as="geometry" />
+          <mxGeometry x="320" y="-231" width="255" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iPQbSwLAwt5U1WuinnP0-58" value="Godfrey (Uyaan) Biba &amp;amp; Luisa Nicanor" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#9673a6;fillColor=#e1d5e7;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="80" y="-230" width="180" height="40" as="geometry" />
+          <mxGeometry x="80.3" y="-231" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="geJAM1FH9w8emXUavwDb-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="1" source="iPQbSwLAwt5U1WuinnP0-55" target="geJAM1FH9w8emXUavwDb-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -409,22 +396,6 @@
         </mxCell>
         <mxCell id="geJAM1FH9w8emXUavwDb-126" value="Lallie (Pandy) Calletong &amp;amp; Michael Carruthers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-150" y="280" width="170" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="geJAM1FH9w8emXUavwDb-127" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="260" y="1370" width="295" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="geJAM1FH9w8emXUavwDb-3" value="&lt;font&gt;Domingo (Domanog) Biba&lt;sup&gt;+&lt;/sup&gt; &amp;amp; Dominga Paydon&lt;sup&gt;+&lt;/sup&gt;&lt;sup&gt;&amp;nbsp;&lt;/sup&gt;(Second Wife)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="geJAM1FH9w8emXUavwDb-127">
-          <mxGeometry x="40" width="255" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="geJAM1FH9w8emXUavwDb-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="geJAM1FH9w8emXUavwDb-127">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="40.000000000000455" y="19.549999999999955" as="sourcePoint" />
-            <mxPoint y="19.549999999999955" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="30.000000000000455" y="19.549999999999955" />
-              <mxPoint x="30.000000000000455" y="19.549999999999955" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="geJAM1FH9w8emXUavwDb-135" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=15;fontColor=default;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -834,8 +805,8 @@
         </mxCell>
         <mxCell id="geJAM1FH9w8emXUavwDb-217" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300" y="1140" as="sourcePoint" />
-            <mxPoint x="259.99999999999994" y="1139.57" as="targetPoint" />
+            <mxPoint x="300.3" y="1129.93" as="sourcePoint" />
+            <mxPoint x="260.29999999999995" y="1129.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="geJAM1FH9w8emXUavwDb-218" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
@@ -1246,6 +1217,27 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="50" y="2390" as="sourcePoint" />
             <mxPoint x="80" y="2390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="geJAM1FH9w8emXUavwDb-3" value="&lt;font&gt;Domingo (Domanog) Biba&lt;sup&gt;+&lt;/sup&gt; &amp;amp; Dominga Paydon&lt;sup&gt;+&lt;/sup&gt;&lt;sup&gt;&amp;nbsp;&lt;/sup&gt;(Second Wife)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1370" width="255" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="geJAM1FH9w8emXUavwDb-312" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="geJAM1FH9w8emXUavwDb-219">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="1390" as="sourcePoint" />
+            <mxPoint x="310" y="1380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="geJAM1FH9w8emXUavwDb-313" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290.3" y="1729.57" as="sourcePoint" />
+            <mxPoint x="260.3" y="1729.57" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="geJAM1FH9w8emXUavwDb-314" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290.3" y="1999.57" as="sourcePoint" />
+            <mxPoint x="260.3" y="1999.57" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
