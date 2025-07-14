@@ -2543,6 +2543,9 @@
             <mxPoint x="2180" y="1410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="geJAM1FH9w8emXUavwDb-895" value="Jane Rufino" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1980" y="1480" width="170" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
