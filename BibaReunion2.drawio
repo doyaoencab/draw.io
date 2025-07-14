@@ -1063,6 +1063,12 @@
         <mxCell id="geJAM1FH9w8emXUavwDb-268" value="Romar Viva" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-149.1" y="1920" width="170" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="geJAM1FH9w8emXUavwDb-269" value="Arthur Viva+ &amp;amp; Florida Amistad" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-149.1" y="1980" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="geJAM1FH9w8emXUavwDb-270" value="Carmela Viva &amp;amp; Philip Dario" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-149.4" y="2040" width="170" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
