@@ -3302,8 +3302,20 @@
             <mxPoint x="-870" y="5460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="geJAM1FH9w8emXUavwDb-1068" value="John Domanog" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#0e8088;fillColor=#b0e3e6;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="geJAM1FH9w8emXUavwDb-1069" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="geJAM1FH9w8emXUavwDb-1068" target="geJAM1FH9w8emXUavwDb-1063">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="geJAM1FH9w8emXUavwDb-1068" value="John Domanog &amp; Mory Lipata" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#0e8088;fillColor=#b0e3e6;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-650" y="5480" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="geJAM1FH9w8emXUavwDb-1070" value="Kyohan" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-1100.2" y="5570" width="159.2" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="geJAM1FH9w8emXUavwDb-1071" value="Khiara" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-1099.8" y="5610" width="159.2" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="geJAM1FH9w8emXUavwDb-1072" value="Keziah" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-1099" y="5650" width="159.2" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
