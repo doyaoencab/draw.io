@@ -2771,6 +2771,9 @@
         <mxCell id="geJAM1FH9w8emXUavwDb-944" value="Wilfred Camsol Rufino &amp;amp; Melannie Viray" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1980" y="2190" width="170" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="geJAM1FH9w8emXUavwDb-945" value="Fred Rufino &amp;amp; Janet Mayos" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#d79b00;fillColor=#ffe6cc;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="2190" width="200" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
