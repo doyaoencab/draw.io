@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.6">
   <diagram name="Page-1" id="Jzcs6xe4tkx_1wj60qTc">
-    <mxGraphModel dx="1695" dy="2229" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2663" dy="2835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,7 +41,7 @@
         <mxCell id="JCvha5B-mu45JHcWkv43-74" value="Booking Complete" style="whiteSpace=wrap;html=1;fontSize=22;container=0;strokeWidth=2;" parent="qPNzb-0w08D9c8R-QPfm-122" vertex="1">
           <mxGeometry x="795.950941419797" y="1459.9966666666664" width="343.4378092510543" height="43.33333333333333" as="geometry" />
         </mxCell>
-        <mxCell id="JCvha5B-mu45JHcWkv43-3" value="&lt;b style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap-mode: nowrap;&quot;&gt;&lt;font&gt;Booking System Flowchart of LeFern Baguio&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontSize=22;container=0;" parent="qPNzb-0w08D9c8R-QPfm-122" vertex="1">
+        <mxCell id="JCvha5B-mu45JHcWkv43-3" value="&lt;b style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap-mode: nowrap;&quot;&gt;&lt;font&gt;Booking System Flowchart of LeFern Hotel Baguio&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontSize=22;container=0;" parent="qPNzb-0w08D9c8R-QPfm-122" vertex="1">
           <mxGeometry x="419.5121822095237" y="10" width="1574.089959067332" height="43.33333333333333" as="geometry" />
         </mxCell>
         <mxCell id="JCvha5B-mu45JHcWkv43-6" value="&lt;b&gt;Guest&lt;/b&gt;" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontSize=22;container=0;" parent="qPNzb-0w08D9c8R-QPfm-122" vertex="1">
