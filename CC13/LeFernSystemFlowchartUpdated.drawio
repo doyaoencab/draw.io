@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.6">
   <diagram name="Page-1" id="Jzcs6xe4tkx_1wj60qTc">
-    <mxGraphModel dx="2071" dy="2465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1096" dy="1855" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -276,8 +276,17 @@
             <mxPoint x="1490" y="-40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qPNzb-0w08D9c8R-QPfm-108" value="&lt;b&gt;t10 = 5&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0000;fontSize=17;container=0;" vertex="1" parent="1">
-          <mxGeometry x="1474.62" y="-56" width="80" height="30" as="geometry" />
+        <mxCell id="qPNzb-0w08D9c8R-QPfm-108" value="&lt;b&gt;t10 = 10&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0000;fontSize=17;container=0;" vertex="1" parent="1">
+          <mxGeometry x="1469.62" y="-56" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qPNzb-0w08D9c8R-QPfm-109" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#FF0000;strokeColor=light-dark(#ff0000, #ededed);fontSize=17;strokeWidth=2;exitPerimeter=0;" edge="1" parent="1" source="JCvha5B-mu45JHcWkv43-72">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="801.14" y="85.03000000000011" as="sourcePoint" />
+            <mxPoint x="1480.62" y="83.43559297703155" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qPNzb-0w08D9c8R-QPfm-110" value="&lt;b&gt;t11 = 10&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0000;fontSize=17;container=0;" vertex="1" parent="1">
+          <mxGeometry x="1469.62" y="68.33" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
