@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7">
   <diagram name="Page-1" id="M09gZJEylp6OCQNrpg6R">
-    <mxGraphModel dx="2330" dy="1458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="2663" dy="1666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,6 +19,11 @@
         </mxCell>
         <mxCell id="F72U7ZUNtzOS8Cb0GlgM-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LopVDnUaFD7QRKL_kpaw-1" target="F72U7ZUNtzOS8Cb0GlgM-5">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F72U7ZUNtzOS8Cb0GlgM-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="LopVDnUaFD7QRKL_kpaw-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="284.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="LopVDnUaFD7QRKL_kpaw-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="500" y="225" width="400" height="400" as="geometry" />
@@ -85,6 +90,9 @@
         </mxCell>
         <mxCell id="F72U7ZUNtzOS8Cb0GlgM-5" value="&lt;font style=&quot;text-wrap-mode: nowrap; font-size: 30px;&quot;&gt;Collected&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 30px; text-wrap-mode: nowrap;&quot;&gt;Accommodation Information&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="790" y="690" width="530" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F72U7ZUNtzOS8Cb0GlgM-8" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;span style=&quot;text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Collected&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18)); text-wrap-mode: nowrap; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Booking Details&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;align=center;fontSize=40;" vertex="1" parent="1">
+          <mxGeometry x="170" y="225" width="300" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
