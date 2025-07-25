@@ -101,7 +101,7 @@
         <mxCell id="__-dNfwIh98uai5d9UmT-127" value="&lt;b&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;Manage Customer Information&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1280" y="1740" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="__-dNfwIh98uai5d9UmT-128" value="&lt;b&gt;&lt;font&gt;Manage Reservation Records&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontSize=40;" vertex="1" parent="1">
+        <mxCell id="__-dNfwIh98uai5d9UmT-128" value="&lt;b&gt;&lt;font&gt;Manage Accommodation Catalogue&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontSize=40;" vertex="1" parent="1">
           <mxGeometry x="1280" y="2400" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="__-dNfwIh98uai5d9UmT-129" value="&lt;b&gt;&lt;font&gt;Create Reservation&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontSize=40;" vertex="1" parent="1">
