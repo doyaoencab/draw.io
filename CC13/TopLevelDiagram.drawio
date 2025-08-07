@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7">
   <diagram name="Page-1" id="VW8s6OkqG2i_AYqq_G_P">
-    <mxGraphModel dx="1864" dy="316" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="2330" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -185,8 +185,8 @@
         <mxCell id="__-dNfwIh98uai5d9UmT-165" value="&lt;font&gt;Reservation Confirmation&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=40;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1920" y="2515" as="geometry" />
         </mxCell>
-        <mxCell id="__-dNfwIh98uai5d9UmT-166" value="&lt;font&gt;Transaction Details&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=40;" parent="1" vertex="1">
-          <mxGeometry x="745" y="3206" width="360" height="60" as="geometry" />
+        <mxCell id="__-dNfwIh98uai5d9UmT-166" value="&lt;font&gt;Processed Transaction Details&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=40;" parent="1" vertex="1">
+          <mxGeometry x="645" y="3206" width="560" height="60" as="geometry" />
         </mxCell>
         <mxCell id="__-dNfwIh98uai5d9UmT-167" value="Transaction Details" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=40;" parent="1" vertex="1">
           <mxGeometry x="1792" y="3206" width="360" height="60" as="geometry" />
@@ -212,8 +212,8 @@
         <mxCell id="__-dNfwIh98uai5d9UmT-231" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;&lt;font style=&quot;&quot;&gt;Collected&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 35px;&quot;&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Accommodation Information&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1690" y="2045" as="geometry" />
         </mxCell>
-        <mxCell id="__-dNfwIh98uai5d9UmT-233" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;Accommodation Details&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1458" y="2255" width="450" height="30" as="geometry" />
+        <mxCell id="__-dNfwIh98uai5d9UmT-233" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;Processed Accommodation Information&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1459" y="2270" width="552" height="30" as="geometry" />
         </mxCell>
         <mxCell id="__-dNfwIh98uai5d9UmT-235" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;Confirmed Reservation&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1455" y="2820" width="470" height="30" as="geometry" />
@@ -221,8 +221,8 @@
         <mxCell id="__-dNfwIh98uai5d9UmT-236" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;Invoice Details&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1450" y="3000" width="320" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="__-dNfwIh98uai5d9UmT-239" value="Transaction Details" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=40;" parent="1" vertex="1">
-          <mxGeometry x="1480" y="3500" width="360" height="60" as="geometry" />
+        <mxCell id="__-dNfwIh98uai5d9UmT-239" value="Processed Transaction Details" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=40;" parent="1" vertex="1">
+          <mxGeometry x="1480" y="3510" width="560" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
